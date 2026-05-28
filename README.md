@@ -10,7 +10,7 @@ Does an additional year of schooling **causally** increase earnings? Or does abi
 bias inflate OLS estimates, naturally talented people get more education AND 
 earn more regardless of the causal effect?
 
-## Why This Is Hard
+## Why This Is Interesting
 
 **Endogeneity:** Education is not randomly assigned. OLS regression confounds the 
 causal effect with ability bias. We cannot run an RCT on human education. We need 
