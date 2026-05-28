@@ -61,7 +61,7 @@ shifts educational attainment upward, especially for kids from low education fam
 More education => higher wages. That's the channel.
 
 Why it doesn't directly affect wages: Nearc4 is just whether you grew up in a county 
-with a college—it's exogenous to you. It doesn't give you better jobs, networks, or 
+with a college it's exogenous to you. It doesn't give you better jobs, networks, or 
 anything else besides easier access to education. We control for region and urban 
 status to account for local labor market differences.
 
@@ -85,7 +85,7 @@ isolating something meaningful.
 
 ## Data
 
-**Source:** Card (1995) — National Longitudinal Survey (NLS) Young Men Cohort  
+**Source:** Card (1995) National Longitudinal Survey (NLS) Young Men Cohort  
 **Sample:** 3,010 men, born 1940s-1950s  
 **Variables:**
 - `educ`: Years of schooling
