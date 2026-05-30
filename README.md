@@ -83,6 +83,11 @@ isolating something meaningful.
 
 ---
 
+## Business Impact
+
+For policymakers and education economists, this finding directly informs ROI calculations for education subsidies and student loan policies. If the true return is 14.5% (not 7.5%), then education subsidies paying for themselves through increased tax revenue becomes plausible. For HR teams evaluating education requirements in hiring, the bias correction shows: don't conflate education with ability. A 14.5% wage lift per year of schooling justifies higher education budgets and longer training programs.
+
+---
 ## Data
 
 **Source:** Card (1995) National Longitudinal Survey (NLS) Young Men Cohort  
